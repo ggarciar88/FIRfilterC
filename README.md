@@ -25,10 +25,9 @@ This project implements a simple Finite Impulse Response (FIR) filter using a mo
 
 ## Compiled with gcc
 
-```bash
+To compile you must use the following instructions in the bash:
 gcc -o fir_filter fir_filter.c
 ./fir_filter
-```
 
 ## Output
 
