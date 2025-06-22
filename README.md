@@ -23,11 +23,12 @@ This project implements a simple Finite Impulse Response (FIR) filter using a mo
 - This example uses a small array of noisy sine wave-like samples.
 - The filtered output is printed alongside the original input.
 
-## Compiled with gcc
+## How to compile with gcc:
 
-To compile you must use the following instructions in the bash:
-gcc -o fir_filter fir_filter.c
-./fir_filter
+- To compile you must use the following instructions in the bash:
+
+     gcc -o fir_filter fir_filter.c
+     ./fir_filter
 
 ## Output
 
